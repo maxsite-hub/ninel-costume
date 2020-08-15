@@ -59,9 +59,9 @@ b {
 
 .button:active {
   background: #7cb3bb;
-  -webkit-box-shadow: 0 0 0 10px #63c8d74d;
-  -moz-box-shadow: 0 0 0 10px #63c8d74d;
-  box-shadow: 0 0 0 10px #63c8d74d;
+  -webkit-box-shadow: 0 0 0 10px #2c636b4d;
+  -moz-box-shadow: 0 0 0 10px #2c636b4d;
+  box-shadow: 0 0 0 10px #2c636b4d;
   -webkit-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
